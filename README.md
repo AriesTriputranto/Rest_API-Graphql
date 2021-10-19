@@ -1,2 +1,3 @@
-# Rest_API-Grapql
-API_grapql
+# Rest_API-GraphQl
+API_grapQl
+
